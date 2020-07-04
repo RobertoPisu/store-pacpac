@@ -222,6 +222,7 @@ code {
   margin: 0 2px;
   position: relative;
   text-align: center;
+  height: 50%;
 }
 .item img {
   margin-top: 5%;
